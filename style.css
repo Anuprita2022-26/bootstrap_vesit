@@ -2,3 +2,8 @@
     height: 400px;
     width: 100%;
 }
+.card-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
